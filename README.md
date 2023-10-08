@@ -1,5 +1,3 @@
-# Rock_vs_Mine_prediction
-
 # Rock vs. Mine Classification
 
 ## Table of Contents
